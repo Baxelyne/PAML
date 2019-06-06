@@ -1,8 +1,5 @@
 # -*- coding: utf-8 -*-
-# @Time : 2019/6/2 上午10:55
-# @Author : Scofield Phil
 # @FileName: main.py
-# @Project: sequence-lableing-vex
 
 from __future__ import print_function
 import argparse
