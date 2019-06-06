@@ -1,0 +1,8 @@
+B-protein	1
+B-cell_type	2
+O	3
+I-DNA	4
+B-DNA	5
+I-protein	6
+I-cell_type	7
+<PAD>	0
